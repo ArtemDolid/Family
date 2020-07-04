@@ -1,0 +1,47 @@
+.headContainer {
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    border: 1px solid black;
+    background-color: rgb(235, 232, 232);
+}
+.a1{
+    color: darkgoldenrod; 
+}
+.a2{
+    color:darkorchid;
+}
+.a3{
+    color: lightseagreen
+}
+.a4{
+    color: green;
+}
+.h1{
+    color:yellow;
+}
+.v1{
+    background-color: rgb(212, 205, 205);
+} .v2{
+    background-color: rgb(212, 205, 205);
+}
+.h2{
+    color: darkorchid;
+}
+.h3{
+    color: lightseagreen;}
+ .v3{
+    background-color: rgb(212, 205, 205);
+}
+.v4{
+    background-color: rgb(212, 205, 205);
+}
+.h4{
+    color: green;
+}
+.bodyContainer{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    flex-direction: column;
+}
